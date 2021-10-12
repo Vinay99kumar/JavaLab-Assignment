@@ -1,4 +1,4 @@
-package corejavaAssignment;
+package construct;
 import java.util.Scanner;
 
 public class Checktwostring {
